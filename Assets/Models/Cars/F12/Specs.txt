@@ -1,0 +1,24 @@
+RWD
+
+Mass = 1630 + 75 + 64.6
+
+Gear ratio
+1st 3.08
+2nd 2.19
+3rd 1.63
+4th 1.29
+5th 1.03
+6th 0.84
+7th 0.69
+
+Reverse 3.45
+
+Final gear ratio 4.38
+
+Torque Curve
+
+1000 - 310
+3000 - 630
+5500 - 690
+8500 - 525
+10000 - 0

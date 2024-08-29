@@ -1,0 +1,23 @@
+4WD
+
+Mass = 1588 + 75 + 47.5
+
+Gear ratio
+1st 4.148
+2nd 2.37
+3rd 1.556
+4th 1.155
+5th 0.859
+6th 0.686
+
+Reverse 3.394
+
+Final gear ratio 3.33
+
+Torque Curve
+
+1000 - 200
+3000 - 355
+4000 - 400
+6000 - 250
+7000 - 0

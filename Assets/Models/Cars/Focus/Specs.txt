@@ -1,0 +1,22 @@
+FWD
+
+Mass = 1362 + 75 + 40
+
+Gear ratio
+1st 3.231
+2nd 1.952
+3rd 1.321
+4th 1.029
+5th 0.821
+6th 0.685
+
+Reverse 1.423
+
+Final gear ratio 4.063
+
+Torque Curve
+1000 - 160
+1500 - 250
+3500 - 360
+6500 - 245
+7500 - 0
